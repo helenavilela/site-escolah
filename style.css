@@ -1,0 +1,85 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: #5C81DF;
+}
+
+h1, a, li, td {
+    font-family: 'Indie Flower';
+}
+
+header {
+    background-color: #2858cf;
+    padding: 1px;
+    text-align: center;
+    font-size: 17px;
+}
+
+.click {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+.click2 {
+    display: flex;
+    justify-content: center;
+    margin: 30px;
+}
+
+.click a {
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    background-color: #465898;
+    padding: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+.click2 a {
+    font-size: 30px;
+    color: black;
+    text-decoration: none;
+    background-color: #465898;
+    padding: 15px;
+    padding-left: 80px;
+    padding-right: 80px;
+    border-radius: 40px 40px 40px 40px;
+}
+
+a {
+    color: white;
+    font-size: 22px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 60%;
+
+  }
+  
+  th, td {
+    padding: 0px;
+    font-size: 22px;
+  }
+  
+  th {
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+  }
+  
+  td {
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    text-align: center;
+  }
+
+ol {
+    margin-left: 20px;
+}
+  
+li {
+    font-size: 25px;
+}
+  
